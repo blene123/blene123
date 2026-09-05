@@ -2,8 +2,8 @@
 I am SeokHwan Lee, student of [Computer Science](https://ice.seoultech.ac.kr/department/ce), [SEOULTECH](https://www.seoultech.ac.kr/).
 
 My interst
-:robot:
-:game:
+🤖 AI 
+🎮 Game
 
 
 <!--
